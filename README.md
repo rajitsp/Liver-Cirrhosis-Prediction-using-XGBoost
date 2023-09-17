@@ -1,4 +1,4 @@
-# Liver-Cirrhosis-Prediction-using-XGBoost
+# Liver Cirrhosis Prediction using XGBoost
 
 
 ## Overview
