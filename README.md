@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository contains the code and analysis for a machine learning project aimed at predicting liver cirrhosis using patient lab test results and medical history data.
+This repository contains the code and analysis for a machine learning project aimed at predicting liver cirrhosis using patient lab test results and medical history data. The data was collected by May Clinic. It can be found [here](https://www.mayo.edu/research/documents/pbcseqhtml/doc-10027141).
 
 ## Project Highlights
 - Conducted thorough exploratory data analysis on a comprehensive dataset comprising over 400 patients' records, gaining valuable insights into feature relationships and patterns.
